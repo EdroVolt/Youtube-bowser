@@ -1,0 +1,15 @@
+body {
+  background-color: #333;
+  color: #fff;
+}
+
+.app {
+  /* font-size: 20px; */
+}
+
+.container {
+  display: grid;
+  grid-template-columns: 1fr 320px;
+  margin: 20px;
+  grid-gap: 20px;
+}
