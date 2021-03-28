@@ -1,6 +1,6 @@
 {
-  "homepage":"http://EdroVolt.github.io/Youtube-browser",
-  "name": "tuby",
+  "homepage":"http://EdroVolt.github.io/Youtuby",
+  "name": "youtuby",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
