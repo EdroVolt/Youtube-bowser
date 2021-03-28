@@ -6,7 +6,13 @@ const VideoList = ({ videos, onVideoSelect }) => {
   return (
     <div className="video-list">
       {videos.map((video) => {
-        return <VideoCard video={video} onVideoSelect={onVideoSelect} />;
+        return (
+          <VideoCard
+            key={video.id.videoId}
+            video={video}
+            onVideoSelect={onVideoSelect}
+          />
+        );
       })}
     </div>
   );

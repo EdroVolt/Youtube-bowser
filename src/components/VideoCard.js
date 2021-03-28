@@ -8,7 +8,7 @@ const VideoCard = ({ video, onVideoSelect }) => {
     <div
       className="video-card"
       onClick={(e) => {
-        onVideoSelect(e, video);
+        onVideoSelect(video);
       }}
     >
       <img

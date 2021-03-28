@@ -8,6 +8,7 @@ const VideoPreview = ({ video }) => {
         className="iframe"
         src={`https://www.youtube.com/embed/${video.id.videoId}`}
         frameborder="0"
+        title="video player"
       ></iframe>
       <div className="video-details">
         <h3 className="title">{video.snippet.title}</h3>
