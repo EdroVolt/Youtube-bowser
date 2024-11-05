@@ -1,20 +1,13 @@
 {
   "files": {
-    "main.css": "/Youtuby/static/css/main.ca834d88.chunk.css",
-    "main.js": "/Youtuby/static/js/main.d14bdb1f.chunk.js",
-    "main.js.map": "/Youtuby/static/js/main.d14bdb1f.chunk.js.map",
-    "runtime-main.js": "/Youtuby/static/js/runtime-main.3c8e6d04.js",
-    "runtime-main.js.map": "/Youtuby/static/js/runtime-main.3c8e6d04.js.map",
-    "static/js/2.1db22065.chunk.js": "/Youtuby/static/js/2.1db22065.chunk.js",
-    "static/js/2.1db22065.chunk.js.map": "/Youtuby/static/js/2.1db22065.chunk.js.map",
+    "main.css": "/Youtuby/static/css/main.de88b44a.css",
+    "main.js": "/Youtuby/static/js/main.4b0189a5.js",
     "index.html": "/Youtuby/index.html",
-    "static/css/main.ca834d88.chunk.css.map": "/Youtuby/static/css/main.ca834d88.chunk.css.map",
-    "static/js/2.1db22065.chunk.js.LICENSE.txt": "/Youtuby/static/js/2.1db22065.chunk.js.LICENSE.txt"
+    "main.de88b44a.css.map": "/Youtuby/static/css/main.de88b44a.css.map",
+    "main.4b0189a5.js.map": "/Youtuby/static/js/main.4b0189a5.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.3c8e6d04.js",
-    "static/js/2.1db22065.chunk.js",
-    "static/css/main.ca834d88.chunk.css",
-    "static/js/main.d14bdb1f.chunk.js"
+    "static/css/main.de88b44a.css",
+    "static/js/main.4b0189a5.js"
   ]
 }
